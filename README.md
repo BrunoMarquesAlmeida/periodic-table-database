@@ -68,6 +68,6 @@ From your command line:
 # Rebuild the database
 psql -U postgres < periodic_table.sql
 
-# Then start salon.sh
+# Then start element.sh
 ./element.sh
 ```
